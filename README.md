@@ -1,6 +1,8 @@
-## Olá, meu nome é Lucas Imamura!
+## Hey, welcome!
 
-### ⚙️ GitHub Analytics
+I'm Lucas, a software developer with 3+ years of professional experience building, testing and maintaining robust and scalable products.
+
+### ⭐ GitHub Stats
 
 <table>
   <tr>
