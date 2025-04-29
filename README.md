@@ -7,11 +7,11 @@ Also, I'm currently working on a side project to study. [You can check it here!]
 Thanks and feel free to message me:
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="mailto:lucasimamuraalves@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=lucasimamuraalves@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/lucasimamura/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasimamura/" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
+  <a href="https://www.instagram.com/lucasimamura/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lucas.imamuraa/" alt="Instagram"/></a>
 </p>
 
