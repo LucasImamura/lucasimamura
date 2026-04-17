@@ -1,6 +1,6 @@
 ## Hey, welcome!
 
-I'm Lucas, a software developer with 3+ years of professional experience building, testing and maintaining robust and scalable products.
+I'm Lucas, a software developer with 5+ years of professional experience building, testing and maintaining robust and scalable products.
 
 Also, I'm currently working on a side project to study. [You can check it here!](https://spotify-clone-etx4.onrender.com/)
 
