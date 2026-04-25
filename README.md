@@ -82,7 +82,7 @@ Thanks and feel free to message me:
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/lucasimamura/count.svg"
+    src="https://komarev.com/ghpvc/?username=lucasimamura"
     alt="Número de visitantes no perfil"
   />
 </p>
