@@ -69,7 +69,7 @@ Thanks and feel free to message me:
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=lucasimamura&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://trophygh.kolioaris.xyz/?username=lucasimamura&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
